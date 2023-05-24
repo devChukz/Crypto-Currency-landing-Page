@@ -23,8 +23,8 @@ A crypto currency landing page with information on crypto currency
 
 ### Links
 
-- Solution URL: [](https://github.com/devChukz/Crypto-Currency-landing-Page)
-- Live Site URL: [](https://crypto-currency-landing-page.vercel.app/)
+- Solution URL: [CLICK ME](https://github.com/devChukz/Crypto-Currency-landing-Page)
+- Live Site URL: [CLICK ME](https://crypto-currency-landing-page.vercel.app/)
 
 ## My process
 - Understanding the Layout
