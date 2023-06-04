@@ -14,12 +14,7 @@ A crypto currency landing page with information on crypto currency
 
 ### Screenshot
 
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00001.jpg)
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00002.jpg)
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00003.jpg)
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00004.jpg)
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00005.jpg)
-![](./images/Crypto%20Currency%20_%20Landing%20Page_00006.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
